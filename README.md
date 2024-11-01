@@ -1,4 +1,5 @@
 # Zomato Data Analysis Project
+![Zomato](https://github.com/user-attachments/assets/644840ae-abbf-4a90-874c-5324129f804a)
 
 ## Overview
 This project explores the Zomato dataset to analyze dining and restaurant trends. The analysis focuses on customer preferences, voting patterns, and the impact of online and offline orders on restaurant ratings.
